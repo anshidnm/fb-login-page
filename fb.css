@@ -1,0 +1,140 @@
+.head{
+    height: 130px;
+    width: 100%;
+    background: rgb(4, 4, 95);
+}
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fbtext{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 190px;
+}
+.logo{
+    width: 50%;
+    float: left;
+    padding-top: 35px;
+}
+.login{
+    width:50%;
+    float: left;
+}
+.text{
+    color: white;
+    font-size: 15px;
+}
+.forgot{
+    color: rgba(245, 245, 245, 0.541);
+    text-decoration: none;
+    font-size: 11px;
+}
+.form{
+    margin-top:31px ;
+    margin-left:201px ;
+
+}
+.login_button{
+    background: rgb(91, 89, 196);
+    color: white;
+    border-radius: 2px;
+    border-color: rgb(37, 25, 216);
+    cursor: pointer;
+}
+.login_button:hover{
+    background-color: cornflowerblue;
+}
+.content{
+    height: 600px;
+    width: 100%;
+    background: linear-gradient(white,rgb(141, 167, 175));
+    float: left;
+}
+.lsection{
+    width: 50%;
+    font-weight: bold;
+    font-size: 24px;
+    float: left;
+}
+.quote{
+    margin-left: 190px;
+    margin-top: 62px;
+
+}
+.image{
+    height: 276px;
+    width: 545px;
+    margin-left: 190px;
+}
+.rsection{
+    width: 50%;
+    float: left;
+
+}
+.create{
+    margin-left: 172px;
+    margin-top: 47px;
+}
+.details{
+    width: 50%;
+    margin-left: 168px;
+    margin-top: 28px;
+
+}
+.input{
+    width: 350px;
+    border-radius: 5px;
+    height: 25px;
+}
+.label{
+    border-radius: 5px;
+    height: 25px;
+}
+.dob{
+    width: 50%;
+    margin-left: 176px;
+    margin-top: 10px;
+}
+.birthday{
+    color: rgb(49, 45, 99);
+    font-size: 12px;
+}
+.select{
+    margin-top: 5px;
+}
+.gender{
+    margin-top: 9px;
+    margin-left: 176px;
+    color: rgb(4, 4, 95);
+    font-size: 14px;
+}
+.policy{
+    margin-left: 176px;
+    margin-top: 22px;
+    font-size: 11px;
+}
+.su_button{
+    margin-left: 176px;
+    width: 150px;
+    height: 33px;
+    margin-top: 16px;
+    color: white;
+    background: rgb(16, 133, 42);
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+.su_button:hover{
+    background-color: rgb(180, 228, 184);
+}
+.footer{
+    width: 100%;
+    height: 130px;
+    background: white;
+    float: left;
+}
